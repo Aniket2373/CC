@@ -12,3 +12,41 @@
 6. gcloud app deploy app.yaml
 
 run program succeessfully. 
+
+
+
+
+
+
+Welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to my-project-2-422718.
+Use “gcloud config set project [PROJECT_ID]” to change to a different project.
+aniketsalve237@cloudshell:~ (my-project-2-422718)$ ls
+python-files  python-helloworld  Python-HelloWorld  README-cloudshell.txt
+aniketsalve237@cloudshell:~ (my-project-2-422718)$ rm -rf python-files
+aniketsalve237@cloudshell:~ (my-project-2-422718)$ ls
+python-helloworld  Python-HelloWorld  README-cloudshell.txt
+aniketsalve237@cloudshell:~ (my-project-2-422718)$ rm -rf python-helloworld
+aniketsalve237@cloudshell:~ (my-project-2-422718)$ ls
+Python-HelloWorld  README-cloudshell.txt
+aniketsalve237@cloudshell:~ (my-project-2-422718)$ rm -rf python-HelloWorld
+aniketsalve237@cloudshell:~ (my-project-2-422718)$ ls
+Python-HelloWorld  README-cloudshell.txt
+aniketsalve237@cloudshell:~ (my-project-2-422718)$ rm -rf Python-HelloWorld
+aniketsalve237@cloudshell:~ (my-project-2-422718)$ ls
+README-cloudshell.txt
+aniketsalve237@cloudshell:~ (my-project-2-422718)$ git clone https://github.com/Aniket2373/python-files.git
+Cloning into 'python-files'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), done.
+aniketsalve237@cloudshell:~ (my-project-2-422718)$ ls
+python-files  README-cloudshell.txt
+aniketsalve237@cloudshell:~ (my-project-2-422718)$ cd python-files
+aniketsalve237@cloudshell:~/python-files (my-project-2-422718)$ ls
+hello.py  README.md
+aniketsalve237@cloudshell:~/python-files (my-project-2-422718)$ python hello.py
+hello world
+aniketsalve237@cloudshell:~/python-files (my-project-2-422718)$ 
