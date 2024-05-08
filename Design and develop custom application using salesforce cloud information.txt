@@ -1,0 +1,44 @@
+1. create account on salesforce cloud. 
+
+2. create object : object is nothing but creating the table. 
+	create>custom object
+
+3. custome object is nothing but creating table names. 
+
+4. we create studetn and books
+	book_c is custom object
+
+5. field and relationship : fields is nothing but column name 
+	-select data type 
+	-add field label
+	-save all information
+
+6. now we can add the column for students
+
+7. we create tab : click on setting and then click on setup
+
+8. custom object tab : click on new
+
+9. je object aapan create kele tyala tab create karaycha : custom object tabs
+
+10. Now create application : 
+	1. search bar apps search 
+	2. go to app manager
+	3. new lightning app
+	4. create app
+	5. add studet,book
+	6. add system administrator
+
+
+
+
+------------------------------------------------------------
+
+
+create custom object >>>>>
+go to object manageer >>> select our objects names 
+field and reletionship >> new >> text >>> require >> next 
+
+create tap >>> Tabs >>> new >> je object aapan create kele tyala tab create karaycha : custom object tabs
+
+app creation >>> app>> apps manager>> new lighting app >> app name >> available atom need to be added   >> system administration 

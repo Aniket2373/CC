@@ -1,0 +1,14 @@
+1. go to console cloud google. 
+
+2. cloud overview > create project and enable our live project. 
+
+3. go to app Engine Admin API >>> enable it   >>>> active cloud shell
+
+
+4. git clone github_link
+
+5. file.py
+
+6. gcloud app deploy app.yaml
+
+run program succeessfully. 
