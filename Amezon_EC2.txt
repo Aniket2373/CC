@@ -1,0 +1,14 @@
+####  Rohan aws ec2: 
+
+email : darandalerohan66@gmail.com
+pass : ROHan@1234
+
+####  console google cloud: 
+
+email : aniketsalve237@gmail.com
+pass : Aniket@123
+
+
+####  salesforce.com
+email : aniketsalvetp@gmail.com
+pass : Aniket@123
